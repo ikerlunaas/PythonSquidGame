@@ -14,8 +14,6 @@
 4. and you're done!
 
 # WARNING ⚠️
-1. You need to have some textures, or it will not execute.
-2. If you are on a laptop, it may bug if you don't have a mouse.
+1. If you are on a laptop, it may bug if you don't have a mouse.
 
- ______________________
-| @ikerlunaas 12/10/23 |
+@ikerlunaas 12/10/23
